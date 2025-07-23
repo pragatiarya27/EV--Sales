@@ -1,2 +1,3 @@
 # EV--Sales
  Analysis of the IEA Global EV Data (2010–2024) using Python
+I have done in this project a comprehensive analysis of the **IEA Global EV Data (2010–2024)** using Python, Pandas, Matplotlib, and Seaborn. The project involves loading and cleaning the dataset, identifying missing values, and filtering key parameters like EV stock, EV sales, and EV stock/sales share. I visualized trends over time and across regions using line and bar charts, comparing metrics like EV stock by powertrain and EV sales share by region. The analysis provides insights into global EV adoption patterns and powertrain trends.
